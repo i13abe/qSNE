@@ -61,4 +61,8 @@ X_reduced = qsne.fit_transform(digits.data)
 plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=digits.target)
 plt.show()
 ```
-The q-SNE 
+The major parameter of q-SNE are as follows:
+>+ n_components:The dimension of low-dimensional space (default: 2).
+>+ q:The hyperparameter of q-Gaussian distribution (default: 2.0). When q=2.0, q-SNE becomes t-SNE because q-Gaussian distribution becomes t-distribution. When q close to 1 (q=1.001), q-SNE close to SNE.
+
+Other parameters of q-SNE is same as t-SNE.
