@@ -44,7 +44,9 @@ If you can not use jupyter, please follow below step.
 python setup.py build_ext --inplace
 ```
 
-If you have any error, maybe your gcc is wrong.
+>If you have any error, maybe your gcc is wrong.
+>When you can not compile "_util.pyx", please modify "_utils._binary_search_perplexity" in "QSNE.py" to "_binary_search_perplexity".
+>We prepare the binary search function in "QSNE.py".
 
 2. write the code to your python file
 ```
