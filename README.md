@@ -6,7 +6,7 @@ The q-Gaussian distribution is a probability distribution maximized the tsallis 
 It is generalization of Gaussian distribution with hyperparameter q.
 It has Gaussian distribution when q close to 1, and t-distribution when q equal to 2.
 
-The details for thw q-SNE can be found in ''.
+The details for thw q-SNE can be found in 'https://arxiv.org/abs/2012.00999'.
 This paper is accepted ICPR2020.
 
 In this GitHub, we provide the implementation of q-SNE on Python.
