@@ -26,7 +26,7 @@ These requirments is just my development enviroment.
 
 Please manual install to get this package:
 ```
-wget https://
+git clone https://github.com/i13abe/q_SNE.git
 ```
 
 Install the requirements:
