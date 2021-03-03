@@ -7,7 +7,7 @@ It is generalization of Gaussian distribution with hyperparameter q.
 It has Gaussian distribution when q close to 1, and t-distribution when q equal to 2.
 The q-SNE shows visualization of 10,000 samples selected randomly on MNIST below.
 
-<center><img src="qsne.png" width="512"></center>
+<center><img src="qsne.PNG" width="512"></center>
 
 The details for thw q-SNE can be found in 'https://arxiv.org/abs/2012.00999'.
 This paper is accepted ICPR2020.
