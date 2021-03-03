@@ -1,0 +1,4 @@
+sickit-learn >= 0.23.2
+numpy
+scipy
+matplotlib
