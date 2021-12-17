@@ -9,7 +9,7 @@ It has Gaussian distribution when q close to 1, and t-distribution when q equal 
 The q-SNE shows visualization of 10,000 samples selected randomly on MNIST below.
 
 <center><img src="qsne.PNG" width="512"></center>
-<center>![animation_MNIST](https://user-images.githubusercontent.com/23650370/146483949-96678bfb-c50f-46e6-a2ae-fe28001aca6f.gif)</center>
+![animation_MNIST](https://user-images.githubusercontent.com/23650370/146484077-3f9b367e-9fa9-48ab-a368-014ea4f8a6a9.gif)
 
 
 The details for thw q-SNE can be found in 'https://arxiv.org/abs/2012.00999'.
