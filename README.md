@@ -1,6 +1,8 @@
 # q-SNE
 q-SNE: Visualizing Data using q-Gaussian Distributed Stochastic Neighbor Embedding
 
+![animation_MNIST](https://user-images.githubusercontent.com/23650370/146484077-3f9b367e-9fa9-48ab-a368-014ea4f8a6a9.gif)
+
 The q-SNE is a dimensionality reduction technique to improve t-SNE.
 The q-SNE uses q-Gaussian distribution in low-dimensional space instead of t-distribution of t-SNE.
 The q-Gaussian distribution is a probability distribution maximized the tsallis entropy under appropriate constraints.
@@ -9,8 +11,6 @@ It has Gaussian distribution when q close to 1, and t-distribution when q equal 
 The q-SNE shows visualization of 10,000 samples selected randomly on MNIST below.
 
 <center><img src="qsne.PNG" width="512"></center>
-![animation_MNIST](https://user-images.githubusercontent.com/23650370/146484077-3f9b367e-9fa9-48ab-a368-014ea4f8a6a9.gif)
-
 
 The details for thw q-SNE can be found in 'https://arxiv.org/abs/2012.00999'.
 This paper is accepted ICPR2020.
