@@ -1,9 +1,17 @@
 # q-SNE
 q-SNE: Visualizing Data using q-Gaussian Distributed Stochastic Neighbor Embedding
 
+MNIST with several hyperparameter q in below.
+
 ![animation_MNIST](https://user-images.githubusercontent.com/23650370/146484077-3f9b367e-9fa9-48ab-a368-014ea4f8a6a9.gif)
 
+COIL-20 with several hyperparameter q in below.
+
 ![animation_COIL-20](https://user-images.githubusercontent.com/23650370/146488136-7afbd307-311d-4dd5-8a05-01937a2f928a.gif)
+
+FashionMNIST with several hyperparameter q in below.
+
+![animation_FashionMNIST](https://user-images.githubusercontent.com/23650370/146706882-dd4abc63-ef0e-4497-8456-1426ac29854f.gif)
 
 The q-SNE is a dimensionality reduction technique to improve t-SNE.
 The q-SNE uses q-Gaussian distribution in low-dimensional space instead of t-distribution of t-SNE.
