@@ -1,3 +1,7 @@
+# Parametric q-SNE
+We also developed parametric q-SNE [here](https://github.com/i13abe/parametric-qSNE/tree/main#parametric-q-sne).
+Please see it.
+
 # q-SNE
 q-SNE: Visualizing Data using q-Gaussian Distributed Stochastic Neighbor Embedding
 
